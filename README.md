@@ -62,5 +62,5 @@ To run the notebooks in this repository, you will need the following Python libr
 * `tensorflow` / `keras`
 * `ast` (Standard library)
 
-## 📝 Acknowledgements
+## Acknowledgements
 Special thanks to Zeta Surgical for providing the extensive CT scan dataset and labeling coordinates that made this research possible.
